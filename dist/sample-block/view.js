@@ -1,0 +1,1 @@
+console.log("Hello World! This is Bcgov WordPress Blocks block plugin!");
